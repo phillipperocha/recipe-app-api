@@ -1,4 +1,8 @@
 Django>=3.1.7,<3.2.0
 djangorestframework>=3.12.2,<3.13.0
 
+<<<<<<< HEAD
 flake8>=3.9.0,<3.10.0
+=======
+flake8>=3.8.0,<3.7.0
+>>>>>>> cb4aacde41e66433426889fdf04cf8f668a15193
