@@ -1,10 +1,8 @@
 version: '3'
 
 services:
-  # Só temos um serviço no momento que é o app
   app:
     build:
-      # Dockerfile está na raíz
       context: .
     ports:
       - "8000:8000"

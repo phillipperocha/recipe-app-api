@@ -1,0 +1,8 @@
+[flake8]
+
+# Vamos excluir algumas coisas pra ele não verificar.
+exclude =
+    migrations,
+    __pycache__,
+    manage.py,
+    settings.py
